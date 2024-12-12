@@ -28,6 +28,10 @@ Make sure you have the latest .NET 8 framework installed on your system:
 
 ### Step 2
 
+Clone the Repository. Ofcourse...
+
+### Step 2
+
 Create a `launch.json` file if it does not exist for the `OwnLanguage.csproj` file, and you should see the magic happen!
 
 You can also use the .NET CLI commands:

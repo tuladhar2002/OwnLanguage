@@ -2,7 +2,13 @@
 using OwnLanguage;
 using OwnLanguage.Content;
 
-var filename = Directory.GetCurrentDirectory() + "../../../../testOwnLanguageFile.txt"; // this would be the Path to our test file to compile
+var filename = Path.Combine(Directory.GetCurrentDirectory(), "testOwnLanguageFile.txt");
+
+if (!File.Exists(filename))
+{
+    // Adjust if running from the bin directory (debugger)
+    filename = Path.Combine(Directory.GetParent(Directory.GetCurrentDirectory())!.FullName, "../../testOwnLanguageFile.txt");
+}
 
 var fileCOntent = File.ReadAllText(filename);
 
