@@ -1,0 +1,38 @@
+i -> 100;
+show yourself(i); 
+name -> "Aashir";
+show yourself(name)
+
+
+j -> i plus 1;
+z -> i minus 5;
+k -> i plus 1.003;
+show yourself(k)
+
+
+n -> i is equal to 1;
+show yourself(i)
+
+l -> 5 is greater than or equal to 0;
+show yourself(l)
+
+m -> i is greater than 10;
+show yourself(m)
+
+o -> 10 is greater than 0 and 100 is greater than 0
+show yourself(o)
+
+
+z-> 5 times 100;
+show yourself(z)
+
+o -> 200 divided by 100;
+show yourself(o)
+
+k -> 100 is greater than 20 divided by 10
+show yourself(k)
+
+p -> 100 times 20 divided by 5
+show yourself(p)
+
+show yourself("This is the end of the test file! GGs")

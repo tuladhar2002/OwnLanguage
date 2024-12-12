@@ -1,0 +1,6 @@
+/Users/tuladhar2002/ComparitiveLanguageFinal/OwnLanguage/obj/Debug/net8.0/GrammerLexer.cs
+/Users/tuladhar2002/ComparitiveLanguageFinal/OwnLanguage/obj/Debug/net8.0/GrammerParser.cs
+/Users/tuladhar2002/ComparitiveLanguageFinal/OwnLanguage/obj/Debug/net8.0/GrammerListener.cs
+/Users/tuladhar2002/ComparitiveLanguageFinal/OwnLanguage/obj/Debug/net8.0/GrammerBaseListener.cs
+/Users/tuladhar2002/ComparitiveLanguageFinal/OwnLanguage/obj/Debug/net8.0/GrammerVisitor.cs
+/Users/tuladhar2002/ComparitiveLanguageFinal/OwnLanguage/obj/Debug/net8.0/GrammerBaseVisitor.cs
