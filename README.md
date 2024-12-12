@@ -30,7 +30,7 @@ Make sure you have the latest .NET 8 framework installed on your system:
 
 Clone the Repository. Ofcourse...
 
-### Step 2
+### Step 3
 
 Create a `launch.json` file if it does not exist for the `OwnLanguage.csproj` file, and you should see the magic happen!
 
@@ -41,7 +41,7 @@ dotnet build
 dotnet run
 ```
 
-### Step 3
+### Step 4
 
 The file `testOwnLanguageFile.txt` is the file being compiled, so you can play around with it and test it out!
 
